@@ -37,7 +37,7 @@
 * Темная тема, доступность и локализация
 
 ## Контакты
-[@SSHLIAKHIN](https://t.me/SSHLIAKHIN) | sshlyahin@yahoo.com
+[@SSHLIAKHIN](https://t.me/SSHLIAKHIN) | sshlyahin@yandex.ru
 
 <!--
 **SShliakhin/SShliakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
